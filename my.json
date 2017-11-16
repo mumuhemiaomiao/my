@@ -1,0 +1,19 @@
+{
+	"data": {
+		"price": "￥3299",
+		"img1": "./src/assets/image/fridge.jpg",
+		"img2": [
+			"./src/assets/image/fridge1.jpg",
+			"./src/assets/image/fridge1.jpg",
+			"./src/assets/image/fridge1.jpg",
+			"./src/assets/image/fridge1.jpg",
+			"./src/assets/image/fridge1.jpg"
+		],
+		"img3": [
+			"./src/assets/image/fridge2.jpg",
+			"./src/assets/image/fridge2.jpg",
+			"./src/assets/image/fridge2.jpg"
+		],
+		"img4": "./src/assets/image/fridge3.jpg"
+	}
+}
